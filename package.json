@@ -4,7 +4,7 @@
   "description": "A simple slash-command framework for discord.js",
   "main": "src/index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/daima3629/djs-slash-command-framework/issues"
   },
-  "homepage": "https://github.com/daima3629/djs-slash-command-framework#readme"
+  "homepage": "https://github.com/daima3629/djs-slash-command-framework#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
 }
