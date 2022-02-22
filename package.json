@@ -1,0 +1,19 @@
+{
+  "name": "djs-slash-command-framework",
+  "version": "1.0.0",
+  "description": "A simple slash-command framework for discord.js",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daima3629/djs-slash-command-framework.git"
+  },
+  "author": "daima3629",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daima3629/djs-slash-command-framework/issues"
+  },
+  "homepage": "https://github.com/daima3629/djs-slash-command-framework#readme"
+}
